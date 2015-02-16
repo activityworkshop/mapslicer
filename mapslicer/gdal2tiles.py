@@ -11,7 +11,7 @@
 #               with interactive web maps a la Google Maps
 # Author:   Klokan Petr Pridal, klokan at klokan dot cz
 # Web:      http://www.klokan.cz/projects/gdal2tiles/
-# GUI:      https://github.com/kalxas/mapslicer
+# GUI:      https://github.com/geopython/mapslicer
 #
 ###############################################################################
 # Copyright (c) 2008, Klokan Petr Pridal

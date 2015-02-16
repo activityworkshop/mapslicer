@@ -8,7 +8,7 @@ MapSlicer is a graphical application for online map publishing. Your map can cre
 MapSlicer is an open-source application, distributed under the New BSD License.
 It can run on several platforms, including Linux, Microsoft Windows and Apple Mac OS X.
 
-You can download the source code from the repository at https://github.com/kalxas/mapslicer
+You can download the source code from the repository at https://github.com/geopython/mapslicer
 
 Requirements
 ------------
